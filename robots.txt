@@ -1,4 +1,2 @@
 Sitemap: https://www.thefamilies.site/sitemap.xml
 User-agent: *
-
-
