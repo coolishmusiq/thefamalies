@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
-Allow: /sitemap.htm
 Sitemap: https://www.thefamilies.site/sitemap.xml
+User-agent: *
+
+
